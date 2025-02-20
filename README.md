@@ -1,2 +1,3 @@
-# ctutorials
-Samples of code to show off different programming concepts in C
+# C Tutorial Series
+So basically I show samples of code to demonstrate different programming concepts in C.
+If you're a beginner then I hope this helps because I kinda tried to orient this towards beginners. :)
